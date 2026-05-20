@@ -1,9 +1,9 @@
 class Easymqtt < Formula
   desc "MQTT CLI and MCP server for EasyMQTT"
   homepage "https://github.com/LucaKaufmann/easymqtt-cli-releases"
-  url "https://github.com/LucaKaufmann/easymqtt-cli-releases/releases/download/v0.1.1/easymqtt-macos-universal.tar.gz"
-  version "0.1.1"
-  sha256 "28f438c2f16d8c6bb7df6009d4d365ad1e7ba60943d7ca957d048095f5093130"
+  url "https://github.com/LucaKaufmann/easymqtt-cli-releases/releases/download/v0.1.2/easymqtt-macos-universal.tar.gz"
+  version "0.1.2"
+  sha256 "6cbd8611a53028e22851b9bf0bea5e073496ebbad18b69bf35323e288223e83d"
   license "Proprietary"
 
   def install
